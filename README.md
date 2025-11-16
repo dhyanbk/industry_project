@@ -33,9 +33,10 @@ Built using modern and high-performance web technologies:
 - 🧹 **ESLint & PostCSS** — Code linting and CSS optimization  
 
 ---
-
 ## 📂 Project Structure
+
 project/
+│
 ├── .bolt/ # Build or configuration files
 ├── assets/ # Static assets (images, icons, fonts)
 ├── src/ # Main source code
@@ -44,6 +45,7 @@ project/
 │ ├── styles/ # Custom and Tailwind styles
 │ ├── main.tsx # App entry point
 │ └── App.tsx # Root React component
+│
 ├── index.html # Base HTML template
 ├── package.json # Dependencies & scripts
 ├── vite.config.ts # Vite configuration
